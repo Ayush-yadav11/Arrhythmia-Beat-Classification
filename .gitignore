@@ -1,0 +1,21 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Generated data files
+*.mat
+*.csv
+output.png
+
+# Dataset directory
+dataset/
+
+# VS Code
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
