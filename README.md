@@ -129,10 +129,6 @@ The table below summarizes the performance of each classifier on the test data:
 jupyter notebook Arrhythmia_Beat_Classification.ipynb
 ```
 
-## Contributors
-
-- Houssem Khalfi
-- Chaima Jeljli
 
 ## Citations
 
